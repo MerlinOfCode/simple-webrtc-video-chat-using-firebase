@@ -1,3 +1,5 @@
+This is probably the best tutorial for learning webRTC video chat. Big props the the creator💯
+
 # Simple WebRTC Video Chat Using Firebase
 
 ![Simple WebRTC Video Chat Using Firebase](https://user-images.githubusercontent.com/26162804/31845534-ac2cca0c-b5cf-11e7-8874-94c4d978fcb8.jpg)
